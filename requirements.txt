@@ -1,0 +1,4 @@
+wave
+scipy
+matplotlib
+numpy
