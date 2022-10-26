@@ -2,3 +2,4 @@ wave
 scipy
 matplotlib
 numpy
+pandas
